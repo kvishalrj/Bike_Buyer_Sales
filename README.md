@@ -1,5 +1,5 @@
 ![Badge](https://img.shields.io/badge/Project--15-Data--Analytics-blue)
-# Bike Buyer Sales Insights💻
+# Bike Buyer Sales💻
 ### Hey, I am [**Vishal**](https://www.linkedin.com/in/vishal-kumar-62146b230/) 🙂 
 ### This is  my 15th live Project.
 ### I made this project using ![Ms Excel and Ms Word](https://img.shields.io/badge/Excel%20%26-Word%20-blue)
